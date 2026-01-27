@@ -8,3 +8,4 @@
 ### input("提示词") 从键盘获取输入
 ### 定义数组letters = ['a', 'b', 'c', 'd']
 ### 数组长度 len(letters) 
+### raise 抛出指定异常 
